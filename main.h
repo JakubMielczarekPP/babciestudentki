@@ -14,7 +14,7 @@
 #define P 2
 #define K 10
 
-#define DEBUG 
+// #define DEBUG 
 
 extern int available_jams;
 extern int available_jars;
